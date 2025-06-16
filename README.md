@@ -3,7 +3,7 @@
 <p align="center">
   <strong>Software Engineer</strong>
 </p>
-
+---
 ### 🚀 What I'm Currently Working On & Learning
 - 🔭 Developing Full-Stack applications (robust backends, dynamic frontends).
 - 🌱 Exploring Generative AI (LangChain, LangGraph).
