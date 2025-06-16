@@ -3,7 +3,7 @@
 <p align="center">
   <strong>Software Engineer</strong>
 </p>
----
+
 ### 🚀 What I'm Currently Working On & Learning
 - 🔭 Developing Full-Stack applications (robust backends, dynamic frontends).
 - 🌱 Exploring Generative AI (LangChain, LangGraph).
@@ -19,7 +19,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cuonglexuan203&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Le Xuan Cuong's GitHub Stats" width="49%"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=cuonglexuan203&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Le Xuan Cuong's GitHub Stats" width="49%"/> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuonglexuan203&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Le Xuan Cuong's Top Languages" width="49%"/>
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cuonglexuan203&theme=tokyonight&hide_border=true" alt="Le Xuan Cuong's GitHub Streak" width="49%"/>
